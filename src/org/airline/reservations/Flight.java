@@ -2,10 +2,12 @@ package org.airline.reservations;
 
 public class Flight {
 
+	//fields
 	private String departureCity;
 	private String arrivalCity;
 	private int flightNumber;
 
+	
 	public Flight() {
 		// TODO Auto-generated constructor stub
 		departureCity = "Unknown Departure City";
