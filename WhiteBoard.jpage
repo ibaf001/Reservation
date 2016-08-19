@@ -1,1 +1,1 @@
-int flight;
+Passenger cannot be resolved to a typePassenger cannot be resolved to a typePassenger p = new Passenger("Alex");
