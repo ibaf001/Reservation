@@ -24,5 +24,10 @@ public class Passenger {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	public String toString() {
+		
+		return "Passenger : "+ this.getName();
+	}
 
 }
